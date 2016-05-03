@@ -1,0 +1,10 @@
+# UNREAL generated files
+Binaries/*
+Build/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Content/StarterContent
+
+#Xcode generated files
+*.xcworkspace
