@@ -8,3 +8,5 @@ Content/StarterContent
 
 #Xcode generated files
 *.xcworkspace
+**/xcuserdata
+contents.xcworkspacedata
