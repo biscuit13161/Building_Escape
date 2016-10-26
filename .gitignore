@@ -6,7 +6,7 @@ Intermediate/*
 Saved/*
 Content/StarterContent
 
-#Xcode generated files
-*.xcworkspace
-**/xcuserdata
-contents.xcworkspacedata
+##Xcode generated files
+#*.xcworkspace
+#**/xcuserdata
+#contents.xcworkspacedata
